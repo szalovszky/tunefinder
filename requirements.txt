@@ -1,0 +1,6 @@
+setuptools~=69.0.3
+deezer-python~=6.1.1
+spotipy~=2.23.0
+jsonpickle~=3.0.3
+asyncio~=3.4.3
+shazamio~=0.5.1
